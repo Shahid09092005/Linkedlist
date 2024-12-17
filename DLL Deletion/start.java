@@ -6,7 +6,7 @@ public class start{
         Node prev;  // Next address of Node or reference of previous node
         Node(int data){  // Constructor of class'node
             this.data=data;
-        }
+        } 
     }
 
     public static class Linkedlist{
