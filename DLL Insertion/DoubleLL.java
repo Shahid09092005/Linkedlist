@@ -2,7 +2,7 @@ public class DoubleLL{
 
     // Node class of DLL
     public static class Node{
-        int data; // data of node
+        int data; // data of node 
         Node next; // address of next node
         Node prev; // it store the address of previous address
         Node(int data){
